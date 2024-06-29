@@ -7,6 +7,11 @@ Create RabbitMq for async message service<br/>
 Use Dapr for auto discovery and loose coupling with Orchestration <br/>
 Use Caching Service for frontend performance  <br/>
 Use PostGres as Persistent layer<br/>
+-----------------------------------------------------------------------------------------
+Business Layer:<br/>
+
+-----------------------------------------------------------------------------------------
+
 Use Automapper to resolve data transition <br/>
 Use Dapper for object mapping <br/>
 
