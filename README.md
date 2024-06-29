@@ -10,3 +10,6 @@ Use PostGres as Persistent layer<br/>
 Use Automapper to resolve data transition <br/>
 Use Dapper for object mapping <br/>
 
+#Use API Gateway for Orchestration to different endpoints mapping 
+
+
