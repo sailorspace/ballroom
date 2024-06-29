@@ -1,12 +1,12 @@
 # ballroom
-CQRS+MediatR+RabbitMQ+Automapper+Polly+Onion+APIGateway+REFIT+TYE
+CQRS+MediatR+RabbitMQ+Automapper+Polly+Onion+APIGateway+REFIT+TYE <br/>
 
-Create 2 Services /n
-Each Service with its own CQRS Command.HOST + Query.HOST -> MediateR + Polly use 
-Create RabbitMq for async message service
-Use Dapr for auto discovery and loose coupling with Orchestration 
-Use Caching Service  
-Use PostGres as Persistent layer
-Use Automapper to resolve data transition 
-Use Dapper for object mapping 
+Create 2 Services <br/>
+Each Service with its own CQRS Command.HOST + Query.HOST -> MediateR + Polly use <br/>
+Create RabbitMq for async message service<br/>
+Use Dapr for auto discovery and loose coupling with Orchestration <br/>
+Use Caching Service  <br/>
+Use PostGres as Persistent layer<br/>
+Use Automapper to resolve data transition <br/>
+Use Dapper for object mapping <br/>
 
